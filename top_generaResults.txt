@@ -1,0 +1,101 @@
+primary_site	Genus	TotalReads	Rank
+Bladder	Anaerococcus	42574	1
+Bladder	Cohnella	39395	2
+Bladder	Aerococcus	27795	3
+Bladder	Bacillus	27423	4
+Bladder	Campylobacter	25972	5
+Blood	Actinomyces	282279	1
+Blood	Capnocytophaga	174227	2
+Blood	Corynebacterium	169786	3
+Blood	Cutibacterium	145930	4
+Blood	Aggregatibacter	143797	5
+Brain	Bradyrhizobium	198947	1
+Brain	Achromobacter	120929	2
+Brain	Clostridium	79063	3
+Brain	Cutibacterium	34442	4
+Brain	Alcaligenes	34145	5
+Breast	Bradyrhizobium	270802	1
+Breast	Cutibacterium	87881	2
+Breast	Cupriavidus	44926	3
+Breast	Actinomyces	17719	4
+Breast	Corynebacterium	13261	5
+Cervix	Actinomyces	817926	1
+Cervix	Bradyrhizobium	467729	2
+Cervix	Bacteroides	256544	3
+Cervix	Corynebacterium	122873	4
+Cervix	Bifidobacterium	58903	5
+Colorectal	Bacteroides	2494996	1
+Colorectal	Alistipes	541428	2
+Colorectal	Cupriavidus	69038	3
+Colorectal	Bradyrhizobium	60903	4
+Colorectal	Akkermansia	54827	5
+Esophagus	Bradyrhizobium	278819	1
+Esophagus	Cutibacterium	156003	2
+Esophagus	Cohnella	90630	3
+Esophagus	Campylobacter	71664	4
+Esophagus	Bacillus	39741	5
+Eye	Chopinvirus	24812	1
+Eye	Bacillus	3565	2
+Eye	Cohnella	1862	3
+Eye	Acinetobacter	1499	4
+Eye	Campylobacter	1340	5
+Head and Neck	Capnocytophaga	2016946	1
+Head and Neck	Campylobacter	785583	2
+Head and Neck	Bradyrhizobium	131343	3
+Head and Neck	Bifidobacterium	111332	4
+Head and Neck	Bacteroides	96636	5
+Kidney	Bradyrhizobium	112921	1
+Kidney	Actinomyces	46273	2
+Kidney	Cutibacterium	29983	3
+Kidney	Brucella	27982	4
+Kidney	Burkholderia	16363	5
+Liver	Brucella	10824	1
+Liver	Cutibacterium	10513	2
+Liver	Burkholderia	4292	3
+Liver	Arthrobacter	2702	4
+Liver	Bradyrhizobium	2538	5
+Lung	Bradyrhizobium	950780	1
+Lung	Cohnella	108192	2
+Lung	Burkholderia	88649	3
+Lung	Cupriavidus	79489	4
+Lung	Acidovorax	77684	5
+Lymph Nodes	Bradyrhizobium	1106	1
+Lymph Nodes	Cutibacterium	531	2
+Lymph Nodes	Alphatorquevirus	150	3
+Lymph Nodes	Citrobacter	124	4
+Lymph Nodes	Corynebacterium	66	5
+Mesenchymal	Bradyrhizobium	643008	1
+Mesenchymal	Cutibacterium	92717	2
+Mesenchymal	Corynebacterium	21774	3
+Mesenchymal	Burkholderia	18243	4
+Mesenchymal	Actinomyces	1917	5
+Ovary	Bradyrhizobium	165572	1
+Ovary	Cutibacterium	16767	2
+Ovary	Brucella	5378	3
+Ovary	Corynebacterium	4513	4
+Ovary	Burkholderia	3330	5
+Prostate	Cupriavidus	32897	1
+Prostate	Cohnella	28271	2
+Prostate	Bacillus	19724	3
+Prostate	Campylobacter	18578	4
+Prostate	Acidovorax	11505	5
+Skin	Cohnella	63909	1
+Skin	Campylobacter	49827	2
+Skin	Bacillus	39483	3
+Skin	Clostridium	26038	4
+Skin	Cenphatecvirus	24395	5
+Stomach	Bacteroides	999585	1
+Stomach	Capnocytophaga	226860	2
+Stomach	Campylobacter	150676	3
+Stomach	Cohnella	67027	4
+Stomach	Cutibacterium	51378	5
+Thyroid	Burkholderia	81771	1
+Thyroid	Bradyrhizobium	51526	2
+Thyroid	Cutibacterium	14324	3
+Thyroid	Acinetobacter	13847	4
+Thyroid	Acidovorax	11596	5
+Uterus	Delftia	70091900	1
+Uterus	Cohnella	337609	2
+Uterus	Campylobacter	248219	3
+Uterus	Cutibacterium	199608	4
+Uterus	Comamonas	139402	5
